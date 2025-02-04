@@ -1,0 +1,10 @@
+[
+  {"fuel_id": 1, "fuel_type": "Gasoline"},
+  {"fuel_id": 2, "fuel_type": "Diesel"},
+  {"fuel_id": 3, "fuel_type": "Electric"},
+  {"fuel_id": 4, "fuel_type": "Hybrid"},
+  {"fuel_id": 5, "fuel_type": "Ethanol"},
+  {"fuel_id": 6, "fuel_type": "Natural Gas"},
+  {"fuel_id": 7, "fuel_type": "Hydrogen"},
+  {"fuel_id": 8, "fuel_type": "Propane"}
+]
